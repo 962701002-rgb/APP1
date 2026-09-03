@@ -1,0 +1,10 @@
+{
+  "description": "Discover trending shortlets with a dynamic waterfall layout that refreshes as you scroll, providing users with an engaging browsing experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
